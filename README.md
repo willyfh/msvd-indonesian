@@ -1,5 +1,5 @@
 # MSVD-Indonesian
-MSVD-Indonesian is derived from the MSVD dataset, which is obtained with the help of a machine translation service. This dataset can be used for multimodal video-text tasks, including text-to-video retrieval, video-to-text retrieval, and video captioning. Same as the original English dataset, the MSVD-Indonesian dataset contains about 80k video-text pairs.
+MSVD-Indonesian (Paper: [link](https://arxiv.org/abs/2306.11341)) is derived from the MSVD dataset, which is obtained with the help of a machine translation service. This dataset can be used for multimodal video-text tasks, including text-to-video retrieval, video-to-text retrieval, and video captioning. Same as the original English dataset, the MSVD-Indonesian dataset contains about 80k video-text pairs.
 
 ## Data
 
@@ -23,9 +23,9 @@ If you find our work useful in your research, please cite:
 
 ```bibtex
 @article{Hendria2023MSVDID,
-  title={{MSVD}-{I}ndonesian: A Benchmark for Multimodal Video-Text Tasks in Indonesian 	},
+  title={{MSVD}-{I}ndonesian: A Benchmark for Multimodal Video-Text Tasks in Indonesian},
   author={Willy Fitra Hendria},
-  journal={arXiv preprint arXiv:XXXXXXXXXX},
+  journal={arXiv preprint arXiv:2306.11341},
   year={2023}
 }
 ```
