@@ -6,7 +6,7 @@ MSVD-Indonesian (Paper: [link](https://arxiv.org/abs/2306.11341)) is derived fro
 
 ## Data
 
-Indonesian sentences: [link](https://github.com/willyfh/msvd-indonesian/blob/main/data/MSVD-indonesian.txt)
+Indonesian (Bahasa Indonesia) sentences: [link](https://github.com/willyfh/msvd-indonesian/blob/main/data/MSVD-indonesian.txt)
 
 Raw videos: [link](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/YouTubeClips.tar)
 
