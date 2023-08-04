@@ -13,13 +13,13 @@ Raw videos: [link](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/You
 ## Qualitative Results
 
 ### Text-to-Video  Retrieval
-![Text-to-Video Retrieval](figures/qualitative-results-t2v-ret.png)
+![Text-to-Video Retrieval](https://raw.githubusercontent.com/willyfh/msvd-indonesian/main/figures/qualitative-results-t2v-ret.png)
 
 ### Video-to-Text Retrieval
-![Video-to-Text Retrieval](figures/qualitative-results-v2t-ret.png)
+![Video-to-Text Retrieval](https://raw.githubusercontent.com/willyfh/msvd-indonesian/main/figures/qualitative-results-v2t-ret.png)
 
 ### Video Captioning
-![Video Captioning](figures/qualitative-results-v2t-cap.png)
+![Video Captioning](https://raw.githubusercontent.com/willyfh/msvd-indonesian/main/figures/qualitative-results-v2t-cap.png)
 
 ## Citation
 If you find our work useful in your research, please cite:
